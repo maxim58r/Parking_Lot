@@ -1,0 +1,14 @@
+spot_by_color yellow
+create 4
+park KA-01-HH-3672 White
+park Rs-P-N-21 Red
+park Rs-P-N-22 Red
+status
+reg_by_color RED
+reg_by_color WHITE
+spot_by_color GREEN
+spot_by_color red
+spot_by_reg ABC
+spot_by_reg KA-01-HH-3672
+spot_by_reg Rs-P-N-21
+exit
