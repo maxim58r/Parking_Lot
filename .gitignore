@@ -1,0 +1,5 @@
+# Project exclude paths
+/.gradle/
+/Parking Lot/task/out/
+/Parking Lot/task/out/production/classes/
+/Parking Lot/task/out/test/classes/
